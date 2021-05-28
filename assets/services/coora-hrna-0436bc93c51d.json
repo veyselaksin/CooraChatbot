@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coora-hrna",
+  "private_key_id": "0436bc93c51de14a90cb04d441399483584fe856",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCz2cnnNXqFdgLq\nBr/0Gh1Q6eCDk9X1Oq4yGIKWnVIkrwxE2XN86Ex6sTKzpDpEtlCqAtTulF9LTEGM\nbYAP/qCFMV88o0Wk4YDjgVX5T2xveu1u3mT+5ppFVXSB/vYC3TjZGaFjm+oWABvb\nepaGZQQB1T2u/WMtyaggZKglJ5hQisfSgc0x5Fa+fAwevWHJbiAe2whtX4V73e3O\nXGqx+uBKwiwGU9b2hh8bnbnt0ojDVeQ/PL2+phmD9wKUd2ciUP+KK3A8Cbanyv74\nqnhwsKxfW6y8X1bOvw98bZrSUsijB+Zz9eUxnniYU3B0PlIphYxCxFFqTlbjy6hL\nrUoosCqtAgMBAAECggEAANYXrTioAbdgnvVSTIl+PR22+1wMjCuhfo4piGb7bebi\nQRwxhfCZ1brAkGR130Ifl+Cn6mXTIwlPN5vkvbKQ2IqCCvwm4vEceiFHwS+Xyzvk\nC1n3z50Xc/+BLxZR4D62GXu3SG+ua8mc5cVcWQDQg2lExueFaz38ti9zDz7FCI7W\nNPoaI5TJD09ubDIpBLwrGDxLQkhN7WaeS4njgE6DioAJWvRz5VEbOHxlV+x/E093\nv74vFSZkaV0XHfZv49y82lXYsCZMGdMHCQarj2F9a7V4d5Xuj/3E7dye1Lf1/upP\nIGDJzA+2agvYHUtfgbyUx289nm6r/0rguIeEKT5MUwKBgQDb3rEChcIvP52p6grC\nHU+a12ybpba8NVIOKX3wplIReEM0FGsuHp7AvlG3QibqwFavA2eaR9/hJIfSpOUJ\nu9S6Wd95GkYv5zcXrV8FsqdbZ+FxC367LGvFbC8R1f0cgDN9H//3HD3rSw/nFlz6\n7xFMcpYlgYAOQ+d0KQdQwTItjwKBgQDRZ5qdJX/4zUfWh5QGRjHyjCD6Jt4aNuba\nr8G0TVaqyCK0Dr5mX95Ud7w3V/8Bs3bMr3hgMvAuJIIO0kroOTiH8GqUVhLguzSj\nfp37B60KVDngrQEwewDMT2b5u+jpVImvzzh9841r8vv1zZuY2LqyjPNZ7etQsOQD\n34tEyl8+AwKBgQCqwe7TOLKxI0T9e2jTjRQP+5K75x1eWkLaANtwlJtUOgRnZBxB\ne0JsCuNH4jZ7RtmLnqdNqNh08HwT2kCPKLNz7uyiDwfHmFivKNSNhkx3rtvlgbnw\n//TLJNQBlCG5is9yM/IFJofoPymgnTulHxpeNvfpNQQRECenjV3DF+gyfQKBgQDG\n3r3XwGVoxIwVEW1jCAcnci1fZMpJ2xojVgeAVHKafrd2iQoJ78IWNiBp7wgfdXC9\ns2d+9OFk8QcTTGQXZ0Bo2cpeVeBXzXKQUw91+DQ+Ov88gRFAGZEId+A0DGGGNuMM\nNKBR/ZuxiXIAXuQGpM2qBHKYVXvFhjkF9KcvDYKmQQKBgQDaF+j354huC5B46Edz\niNTQqlmiMm0CXE+Wvt2Mi8YVVFGUWmYntWfhWUuEbwSv+9x+/2m++KoT/sUCayPQ\nBVvBJfvft/8YWUDYpN/V/gPmDYla8JDh3YuzixDJHTWtiDiReRGk/6CKAVUht/gC\nyQHNmo+v6QSCEYWZ9AzGrjxTnQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "coora-hrna@appspot.gserviceaccount.com",
+  "client_id": "103823594247244928198",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coora-hrna%40appspot.gserviceaccount.com"
+}

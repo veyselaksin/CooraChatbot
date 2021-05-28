@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coora-hrna",
+  "private_key_id": "c774b7446df216f9709d3071d8e41be677afa6fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7m6lxjUtf6Cg0\nlYI5BAmMucZ0Z0S4lU0lJdsgvt3+49AYZ4DMagfF5xRtWw/NWfeXhWkaACB3ppxy\ntAjNmixMon7qnxnVroScKHr1SkVrAx3oSe6klNyIbKCa/fg1dJN7KV/NoA9q1Ckf\n/j0khmTXpF0HM1AL1yjYJd9ozqz2GI47fzws9+HBep4aohJAaaVBPM5C24EpQUyN\ne4+HHuliElkwuo5uLS7LlXL0HELokg9QwG8vYyM4umJw5UnsLUIkzY1iiKZPtOV+\nF2lZkcyZgmfRd+0GxQzvv5O6fLogFm8vvWGDn709ui1anP4B8jT3EGtCxnkGDX0I\nt2PVOVZJAgMBAAECggEAKIKu3omznnSLhftIwNYJ19zfqRAJi1AV9fEMNbBxUFJS\nA4sKCVnV7tp8kzaIHYARUiMpNEeVuzB7dNtCUV86tJucCz6qvfTuxqeJEYFlpvtn\n0FpykRBh5IWMUpuHpsdS91PST50B50AD11g3TLVGfjgMLHtcjAn8VFwtNzz1pTf+\nE45E+ilw+iTuyGdV7sL4RXpeaQeUzr1cOj/tVW1x2ZSxz0bq2xriyOuyvuTkmOmV\nMl0UUxckOlCbWIYpz9RKo+Ffbj/gRFvFoaiJCQHjsVoGPQh8Ug1X0kPS2DHMXkpH\nlvpSEjoK2ZxBD0rBmZJJKbQr6DX43WYjH/rdsIYGvwKBgQDyQaLSDQi2VeGI21G9\nbxlUTTsdgqvvn3rqOSxCCVoubLLFZ2qCVJry7vb1LsDx4Ps0MiEXO1WhodLVjDDJ\nBJ93CyO2W6t+ukfAsnKpVi5koeqW5J/UDbrqbsDbnGj6k8A3vXJ0mvn0LGmnS+vi\nPAFnGV13D7+FKXP9n7NsXZg5qwKBgQDGQFnuXRIbm67GMClL0O0zZSXPHdZxNvTC\nH2l1knxIuE9VoTrztIaBJlqkU/djRJE4DHbT5MIg74Vo0dP7p26iS5UabYKBbFfl\nsvBO7FDg3fSkoYEkS+N85b6PqwNuEcZQK7diA2Q8Lig3Vo64sEetS5SWgSjslTUi\nWnZYrPkD2wKBgQCAJGvlw/M5z4+u/qPsGhpB12BPqdEcvTUdNATPIXdMWz7s4Fkc\ne3hCzFhhNMvmpeT6pRGP4ljXWGvXfYJIsmNPatsHGNJMBGjz6vBv1iBQJr2Z93D7\nkA+w9ciZ4dA9y22/jjw+pcNVfzCbx7MMRkVPrcEcu33JCDZMj+8ugQuGZQKBgDX+\nZr/Vl03vm60chtLARyn9PUvoa3QQLJ8GIRnFWJYRpIHE1KJ1I0DfakZhG/psPUTP\nmDljjz+bHHGM3DgoxKfs/+Hfu3B2SoYjsvE7yVdE/BEub1asWHu2sqy8PcXnj2Rc\nU6idFdqSE5/msh443HylHgXTjYrJpFwD2UGTcoqLAoGAbM38uQ04np3Ckw0Ks4ty\ntYjQhE4GotKSfhmmSIohO8V6/dGScxARJcRI3+67Ds93BQOr2/Mll6vyeEyNW6q0\nPQ9NLzm3KPnbVfnxHXYDJjETMUSdJdkmEr1ndOt3Ll3TmGNLze4DpZ248/a/R5YE\nWNuaPbv8rRtyuDoaWD1Krfk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@coora-hrna.iam.gserviceaccount.com",
+  "client_id": "107401928705456994983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40coora-hrna.iam.gserviceaccount.com"
+}

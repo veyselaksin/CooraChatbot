@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789973756342",
+    "project_id": "coora-hrna",
+    "storage_bucket": "coora-hrna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789973756342:android:2ad4043a1bf70ccf57b917",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chatbot_coora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789973756342-pqo3frkkba7r4p06piuo415mrg63plf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_chatbot_coora",
+            "certificate_hash": "e93d6f91a5b7c3dafc56df5537e139966de98e42"
+          }
+        },
+        {
+          "client_id": "789973756342-7c1is04d7f5b0d89hnico0u5ol8os3ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30_EKNDGh8QERw1BbapacBtO6QuRDLF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789973756342-7c1is04d7f5b0d89hnico0u5ol8os3ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
