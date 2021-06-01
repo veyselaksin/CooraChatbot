@@ -6,11 +6,19 @@ import 'package:flutter_chatbot_coora/components/custom_text_input.dart';
 import 'package:flutter_chatbot_coora/components/setting_titles.dart';
 import 'package:flutter_chatbot_coora/constants.dart';
 import 'package:flutter_chatbot_coora/custom_extensions.dart';
+import 'package:flutter_chatbot_coora/screens/signIn.dart';
 import 'package:flutter_chatbot_coora/services/firebase/authentication_service.dart';
 
-class ResetPassword extends StatelessWidget {
+class ResetPassword extends StatefulWidget {
+  @override
+  _ResetPasswordState createState() => _ResetPasswordState();
+}
+
+class _ResetPasswordState extends State<ResetPassword> {
   TextEditingController _emailController=new TextEditingController();
+
   AuthenticationService _authenticationService=new AuthenticationService(FirebaseAuth.instance);
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -20,7 +28,7 @@ class ResetPassword extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              CustomBackButton(),
+              CustomBackButton(function: openSignIn,),
               SizedBox(
                 height: context.highValue,
               ),
@@ -52,4 +60,7 @@ class ResetPassword extends StatelessWidget {
     );
   }
 
+  openSignIn() {
+    Navigator.push(context, MaterialPageRoute(builder: (context)=>SignIn()));
+  }
 }

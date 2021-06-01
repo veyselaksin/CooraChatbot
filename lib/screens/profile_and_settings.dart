@@ -4,8 +4,10 @@ import 'package:flutter_chatbot_coora/components/back_button.dart';
 import 'package:flutter_chatbot_coora/components/setting_titles.dart';
 import 'package:flutter_chatbot_coora/constants.dart';
 import 'package:flutter_chatbot_coora/custom_extensions.dart';
+import 'package:flutter_chatbot_coora/screens/contact_screen.dart';
 import 'package:flutter_chatbot_coora/screens/languages.dart';
 import 'package:flutter_chatbot_coora/screens/message_screen.dart';
+import 'package:flutter_chatbot_coora/screens/rate_app_screen.dart';
 import 'package:flutter_chatbot_coora/screens/to_do.dart';
 import 'package:flutter_chatbot_coora/widgets/profile_tab.dart';
 import 'package:flutter_chatbot_coora/widgets/settings/settings_custom_cards.dart';
@@ -89,6 +91,7 @@ class _profileandsettingsState extends State<profileandsettings> {
                 SettingsCustomCards(
                   title: "İletişim",
                   icon: FontAwesomeIcons.headset,
+                  function: openContactScreen,
                 ),
                 SizedBox(
                   height: context.mediumValue,
@@ -96,7 +99,7 @@ class _profileandsettingsState extends State<profileandsettings> {
                 SettingsCustomCards(
                   title: (sizeWidth > 375) ? "Uygulamaya oy verin" : "Oy verin",
                   icon: FontAwesomeIcons.solidStar,
-                  function: () {},
+                  function: openRateAppScreen,
                 ),
               ],
             ),
@@ -120,4 +123,10 @@ class _profileandsettingsState extends State<profileandsettings> {
         context, MaterialPageRoute(builder: (context) => ToDoScreen()));
   }
 
+  openRateAppScreen() {
+    Navigator.push(context, MaterialPageRoute(builder: (context)=>RateApp()));
+  }
+  openContactScreen() {
+    Navigator.push(context, MaterialPageRoute(builder: (context)=>ContactScreen()));
+  }
 }

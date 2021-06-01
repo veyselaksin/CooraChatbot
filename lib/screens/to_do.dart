@@ -5,6 +5,7 @@ import 'package:flutter_chatbot_coora/constants.dart';
 import 'package:flutter_chatbot_coora/custom_extensions.dart';
 import 'package:flutter_chatbot_coora/helpers/database_service.dart';
 import 'package:flutter_chatbot_coora/models/todo.dart';
+import 'package:flutter_chatbot_coora/screens/profile_and_settings.dart';
 import 'package:flutter_chatbot_coora/widgets/alert_dialog.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -49,9 +50,7 @@ class _ToDoScreenState extends State<ToDoScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  CustomBackButton(
-                    function: () {},
-                  ),
+                  CustomBackButton(function:openSettingsScreen,),
                   SizedBox(
                     height: context.highValue,
                   ),
@@ -121,5 +120,9 @@ class _ToDoScreenState extends State<ToDoScreen> {
         }
       ),
     );
+  }
+  openSettingsScreen() {
+    Navigator.push(
+        context, MaterialPageRoute(builder: (context) => ProfileSettings()));
   }
 }

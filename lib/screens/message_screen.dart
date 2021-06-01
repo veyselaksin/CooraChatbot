@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_chatbot_coora/components/profile_photo.dart';
 import 'package:flutter_chatbot_coora/models/button_action_model.dart';
 import 'package:flutter_chatbot_coora/screens/profile_and_settings.dart';
+import 'package:flutter_chatbot_coora/screens/to_do.dart';
 import 'package:flutter_chatbot_coora/widgets/message_screen/custom_action_button_list.dart';
 import 'package:flutter_dialogflow/dialogflow_v2.dart';
 import 'package:flutter_chatbot_coora/custom_extensions.dart';
@@ -61,7 +62,7 @@ class _messageScreenState extends State<messageScreen> {
         launchApp("tel://");
         break;
       case "Whatsapp":
-        launchApp("whatsapp://send");
+        launchApp("whatsapp://");
         break;
       case "YouTube":
         launchApp("https://www.youtube.com/");
@@ -80,6 +81,9 @@ class _messageScreenState extends State<messageScreen> {
         break;
       case "Google Drive":
         launchApp("https://drive.google.com/drive/u/0/my-drive");
+        break;
+      case "List":
+        Navigator.push(context, MaterialPageRoute(builder: (context)=>ToDoScreen()));
         break;
       default:
         print('Undefined operation');
