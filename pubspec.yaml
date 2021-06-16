@@ -32,6 +32,7 @@ dependencies:
   auto_size_text: ^2.1.0
   shared_preferences: ^2.0.5
   provider: ^5.0.0
+  flutter_launcher_icons: ^0.9.0
 
   #url_launcher:
   url_launcher: ^6.0.3
@@ -58,6 +59,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "assets/icon/icon.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

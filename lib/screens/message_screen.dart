@@ -61,9 +61,6 @@ class _messageScreenState extends State<messageScreen> {
       case "Call Screen":
         launchApp("tel://");
         break;
-      case "Whatsapp":
-        launchApp("whatsapp://");
-        break;
       case "YouTube":
         launchApp("https://www.youtube.com/");
         break;

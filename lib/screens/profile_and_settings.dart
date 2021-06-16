@@ -93,14 +93,6 @@ class _profileandsettingsState extends State<profileandsettings> {
                   icon: FontAwesomeIcons.headset,
                   function: openContactScreen,
                 ),
-                SizedBox(
-                  height: context.mediumValue,
-                ),
-                SettingsCustomCards(
-                  title: (sizeWidth > 375) ? "Uygulamaya oy verin" : "Oy verin",
-                  icon: FontAwesomeIcons.solidStar,
-                  function: openRateAppScreen,
-                ),
               ],
             ),
           ),

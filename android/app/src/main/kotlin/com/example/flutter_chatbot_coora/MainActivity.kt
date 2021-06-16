@@ -1,4 +1,4 @@
-package com.example.flutter_chatbot_coora
+package com.lainnyone.coora
 
 import io.flutter.embedding.android.FlutterActivity
 
