@@ -6,7 +6,8 @@ Coora chatbot is primitive chatbot, but it's stronger than Eliza 😜. Coora cha
 
 ## About Dialogflow
 Dialogflow supporting from Google and it is so strong AI and chatbot development environment. If we want to create a chatbot we should know using Dialogflow API.
-Firsting first we are create a intent for training our chatbot. 
+Firsting first we are create a intent for training our chatbot and then write a training phrases like below ⬇️.
+
 ![Screenshot from 2021-06-27 14-17-10](https://user-images.githubusercontent.com/32255510/123542466-80047d00-d752-11eb-9cce-d03faf03d839.png)
 
 
