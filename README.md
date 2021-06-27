@@ -1,7 +1,7 @@
-# flutter_chatbot_coora
+# Coora Chatbot
+This application was my last-term project at Yozgat Bozok University. I will explain all about topics this project. ➡️
 
-A new Flutter application.
-
+Coora chatbot is primitive chatbot, but it's stronger than Eliza 😜. Chatbot created with Dialogflow infrastructure using Machine Learning algorithms and NLP (Natural Language Processing) for communicate with end user 🤖 🧑‍💻. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
