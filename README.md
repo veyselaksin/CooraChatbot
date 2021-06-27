@@ -15,9 +15,11 @@ Firsting first we are create a intent for training our chatbot and then write a 
 ![Screenshot from 2021-06-02 22-33-06](https://user-images.githubusercontent.com/32255510/123542679-9f4fda00-d753-11eb-9dba-8e703c4b8511.png)
 
 If you have actions and parameters, they will appear as follows ⬇️. 
+
 ![Screenshot from 2021-06-02 22-30-16](https://user-images.githubusercontent.com/32255510/123542597-1e90de00-d753-11eb-8a86-5a04dc4bfab7.png)
 
 Text response is contains the answers that the chatbot will give us.
+
 ![Screenshot from 2021-06-02 22-57-38](https://user-images.githubusercontent.com/32255510/123542863-83006d00-d754-11eb-8e5a-73eda2ab50ad.png)
 
 
