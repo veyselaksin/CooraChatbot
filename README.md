@@ -1,14 +1,24 @@
 # Coora Chatbot
-This application was my last-term project at Yozgat Bozok University. I will explain all about topics this project. ➡️
+This application was my last-term project at Yozgat Bozok University. Coora chatbot for now only supporting Turkish 🇹🇷 language. English language support will come as soon as possible. 
+I will explain all about topics this project. ➡️
 
 ## Introduction 
 Coora chatbot is primitive chatbot, but it's stronger than Eliza 😜. Coora chatbot created with Dialogflow infrastructure using Machine Learning algorithms and NLP (Natural Language Processing) for communicate with end user 🤖 🧑‍💻. 
 
 ## About Dialogflow
-Dialogflow supporting from Google and it is so strong AI and chatbot development environment. If we want to create a chatbot we should know using Dialogflow API.
+Dialogflow supporting from Google and it is so strong API and chatbot development environment. If we want to create a chatbot we should know using Dialogflow API.
+
+Note: This is not guide of Dialogflow API. It just include about how created chatbot.
+
 Firsting first we are create a intent for training our chatbot and then write a training phrases like below ⬇️.
 
 ![Screenshot from 2021-06-27 14-17-10](https://user-images.githubusercontent.com/32255510/123542466-80047d00-d752-11eb-9cce-d03faf03d839.png)
+
+If you have actions and parameters, they will appear as follows ⬇️. 
+![Screenshot from 2021-06-02 22-30-16](https://user-images.githubusercontent.com/32255510/123542597-1e90de00-d753-11eb-8a86-5a04dc4bfab7.png)
+
+Text response is contains the answers that the chatbot will give us.
+![Screenshot from 2021-06-02 22-33-06](https://user-images.githubusercontent.com/32255510/123542679-9f4fda00-d753-11eb-9dba-8e703c4b8511.png)
 
 
 ## Getting Started
